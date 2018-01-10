@@ -13,6 +13,7 @@ local recipes = {
 	{"default:sand 2",             "default:sandstone"},
 	{"default:desert_sand",        "default:desert_stone"},
 	{"technic:mixed_metal_ingot",  "technic:composite_plate"},
+	{"default:coalblock 99",       "default:diamond"},
 	{"default:copper_ingot 5",     "technic:copper_plate"},
 	{"technic:coal_dust 4",        "technic:graphite"},
 	{"technic:carbon_cloth",       "technic:carbon_plate"},
